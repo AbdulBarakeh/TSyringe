@@ -1,4 +1,4 @@
-export class Bar {
+export class Bar {//Compared to InjectifyJS No need to make it injectable if it's only a dependency
     constructor() {
     }
     test(){
